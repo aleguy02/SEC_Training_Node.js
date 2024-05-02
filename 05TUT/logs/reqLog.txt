@@ -6,3 +6,17 @@
 20240413	16:01:52	24f83948-9ad0-487c-929c-df44ceac5976	/new-page	GET
 20240413	16:01:52	89782513-e0e9-4993-a8a1-19fb2712d176	/css/style.css	GET
 20240413	16:01:52	add067db-ddf7-4313-89a0-9524c32744d7	/img/img1.jpg	GET
+20240501	23:34:58	675dcabe-9d62-4146-af36-94eae866ad0f	GET	undefined	/
+20240501	23:34:58	a07679d1-0be2-4e11-be8d-03eb3f11b15f	GET	undefined	/css/style.css
+20240501	23:35:31	627ef095-0b3f-4c8f-8a28-3ed21115cae9	GET	undefined	/
+20240501	23:35:31	3294b4a1-3a9d-4b69-9176-6d92a3225ce2	GET	undefined	/css/style.css
+20240501	23:36:58	d7435cfa-b808-4699-9055-8ad11ac20a09	GET	undefined	/
+20240501	23:36:58	632f9595-10f2-451a-b4fe-1f64e3cd2014	GET	undefined	/css/style.css
+20240501	23:45:45	ddc0497c-19fd-48c6-b936-b7804a3f5fe4	GET	undefined	/
+20240501	23:46:23	d77c892d-116d-4a7e-94dc-479e7535f437	GET	undefined	/
+20240501	23:46:23	864d1745-8483-4ec8-a32e-c3a986764299	GET	undefined	/css/style.css
+20240501	23:50:51	51661cdb-6526-4f85-8af2-b5284dc6b8dc	GET	undefined	/
+20240501	23:52:43	8ddb1a03-af8b-424c-b489-42e675c7cf95	GET	undefined	/
+20240501	23:52:43	c30cccd4-c413-4bdc-9bdd-3790a740c60b	GET	undefined	/css/style.css
+20240501	23:52:45	c71e5f10-ae98-46b1-9f8e-6dbd9eaf4e72	GET	undefined	/dave
+20240501	23:52:45	63d2599c-511e-4ca4-8a5e-980a9ec9fc25	GET	undefined	/css/style.css
