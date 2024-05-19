@@ -61,3 +61,7 @@
 20240518	20:06:15	058946ec-11f3-4175-ab0c-0a395cc7721f	PUT	undefined	/employees
 20240518	20:06:36	56ec6237-6b07-4957-8cef-2717de61908f	DELETE	undefined	/employees
 20240518	20:06:51	37887a2e-a730-4c1a-9866-bb721ec12050	GET	undefined	/employees/1
+20240518	23:54:21	6359e1c3-9963-4ffa-bd0e-fd6fcf819459	POST	undefined	/register
+20240518	23:55:01	4ac0765d-47df-411a-95d3-5f5c5f314fb9	POST	undefined	/register
+20240519	00:03:52	3b4249c8-fb99-4f20-bbef-3a6f073901a5	POST	undefined	/auth
+20240519	00:04:01	8effb647-c92d-4f06-8050-9c5b54e40bef	POST	undefined	/auth
