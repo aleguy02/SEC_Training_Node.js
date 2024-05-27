@@ -1,11 +1,10 @@
-// data has to be in controller instead of route
 const data = {
     employees: require('../model/employees.json'),
     setEmployees: function (data) { this.employees = data }
 }
 
 const getAllEmployees = (req, res) => {
-    res.json(data.employees)
+    res.json(data.employees);
 }
 
 const createNewEmployee = (req, res) => {
